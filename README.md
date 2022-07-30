@@ -2,4 +2,4 @@
 - 👀 Interested in exploring technology 
 - 🌱 Currently learning and blooming my knowledge to next level
 - 💞️ Looking to collaborate on github
-- 📫 You can reach me via my twitter account given in my profile section
+- 📫 You can reach me via my twitter account given in my profile section or via gauravsingla1012@gmail.com
