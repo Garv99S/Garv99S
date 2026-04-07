@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/gaurav_s99" target="blank"><img src="https://img.shields.io/twitter/follow/gaurav_s99?logo=twitter&style=for-the-badge" alt="gaurav_s99" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps and Cloud**
+- 🌱 I’m currently learning **Data Science, ML and DL**
 
 - 📝 I regularly write articles on [https://medium.com/@gauravsingla1012](https://medium.com/@gauravsingla1012)
 
-- 💬 Ask me about **react, nodeJs, data Structures, databases, OS**
+- 💬 Ask me about **RPG, CLLE, DB2, SQL, ERP**
 
 - 📫 How to reach me **gauravsingla1012@gmail.com**
 
